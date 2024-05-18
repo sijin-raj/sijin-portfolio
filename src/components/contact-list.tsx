@@ -51,7 +51,7 @@ const contacts: Contact[] = [
   {
     name: "LinkedIn",
     className: "bg-blue-500 hover:bg-blue-800/90",
-    href: "https://tiktok.com/@erich2s",
+    href: "https://www.linkedin.com/in/sijinraj/",
     icon: faLinkedinIn,
   },
 ];

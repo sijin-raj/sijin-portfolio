@@ -28,13 +28,13 @@ export default function hero() {
       <h1>
       </h1>
       <div className="my-12 flex w-full flex-col gap-2 text-center lg:w-[50%]">
-        <MotionDiv delayOffset={1.2}>
+        {/* <MotionDiv delayOffset={1.2}>
           <p>Welcome to my personal page!</p>
-        </MotionDiv>
+        </MotionDiv> */}
         <MotionDiv delayOffset={1.4}>
           <p>
-            Just an indie<b> ✨ TypeScript Full-Stack </b>developer who loves to
-            build something cool.
+            I'm a Mobile App Developer passionate about crafting top-tier software experiences📱.
+            With a knack for designing and developing sleek applications, I specialize in React Native and Flutter frameworks 🚀.
           </p>
         </MotionDiv>
       </div>

@@ -15,7 +15,7 @@ export default function about() {
           <MotionDiv delayOffset={0.4}>
             <p>
               Hello, I'm Sijin Raj  
-              . I'm an independent <b>TypeScript Full-Stack</b> developer
+              . <b> Full-Stack</b> developer
             </p>
           </MotionDiv>
           <MotionDiv delayOffset={0.5}>
