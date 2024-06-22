@@ -14,14 +14,14 @@ export default function about() {
         <article className="flex flex-col gap-4">
           <MotionDiv delayOffset={0.4}>
             <p>
-              Hello, I'm Sijin Raj  
+              Hello, I'm Sijin Raj
               . <b> Full-Stack</b> developer
             </p>
           </MotionDiv>
           <MotionDiv delayOffset={0.5}>
             <p>
               As a technologies enthusiast, I am highly passionate about
-              building full-stack web applications. And I love learning new
+              building full-stack Mobile and Web applications. And I love learning new
               technologies, especially elegant code architectures and design
               patterns. I hope to leverage my technical skills to build valuable
               apps that can make a difference in people's lives.
@@ -29,12 +29,7 @@ export default function about() {
           </MotionDiv>
           <MotionDiv delayOffset={0.6}>
             <p>
-              Outside of programming, I am also a photographer and filmmaker, I
-              enjoy doing photography and filmmaking and all things visual. I
-              hope my works can aspires people to see the beauty of the world
-              around us. So welcome to subscribe to my social media channels
-              above to see my works!
-            </p>
+              Outside of programming, I love to travel and enjoy all things visual. I hope my works can inspire people to see the beauty of the world around us            </p>
           </MotionDiv>
         </article>
       </div>
